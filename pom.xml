@@ -56,7 +56,7 @@
     <repositories>
         <repository>
             <id>Automated-Refactoring-Tool-Long-Methods-Detection</id>
-            <url>https://raw.github.com/zapahlevie/Automated-Refactoring-Tool-Long-Methods-Detection/mvn-repo/</url>
+            <url>https://raw.github.com/DufanD/Automated-Refactoring-Tool-Long-Methods-Detection/mvn-repo/</url>
             <snapshots>
                 <enabled>true</enabled>
                 <updatePolicy>always</updatePolicy>
@@ -64,7 +64,7 @@
         </repository>
         <repository>
             <id>Automated-Refactoring-Tool-Long-Parameter-Methods-Detection</id>
-            <url>https://raw.github.com/zapahlevie/Automated-Refactoring-Tool-Long-Parameter-Methods-Detection/mvn-repo/</url>
+            <url>https://raw.github.com/DufanD/Automated-Refactoring-Tool-Long-Parameter-Methods-Detection/mvn-repo/</url>
             <snapshots>
                 <enabled>true</enabled>
                 <updatePolicy>always</updatePolicy>
@@ -72,7 +72,7 @@
         </repository>
         <repository>
             <id>Automated-Refactoring-Tool-Lazy-Class-Detection</id>
-            <url>https://raw.github.com/zapahlevie/Automated-Refactoring-Tool-Lazy-Class-Detection/mvn-repo/</url>
+            <url>https://raw.github.com/DufanD/Automated-Refactoring-Tool-Lazy-Class-Detection/mvn-repo/</url>
             <snapshots>
                 <enabled>true</enabled>
                 <updatePolicy>always</updatePolicy>
